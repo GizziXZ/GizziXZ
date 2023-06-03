@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gizzixz" alt="gizzixz" /> </p>
 
  - 🔭 I’m currently working on [Social Shark](https://github.com/GizziXZ/Social-Shark)
- - 🌱 I’m currently learning **Python, Express.js and Java**
+ - 🌱 I’m currently learning **Python, Express.js and C#**
  - 📫 Reach me on Discord: Gizzi#5716
  
  <h3 align="center">Languages and Tools:</h3>
