@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Gizzi </h1>
 <h3 align="center">Technology enthusiast, developer and most importantly of all, extremely handsome</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gizzixz" alt="gizzixz" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gizzixz" alt="gizzixz" /> </p>
 
  - 🔭 I can do just about anything in node.js!
  - 🌱 I’m currently learning **C#** (with a little interest in rustlang)
