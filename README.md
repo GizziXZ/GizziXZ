@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Gizzi </h1>
+<h1 align="center">👋 I'm Gizzi </h1>
 <h3 align="center">Technology enthusiast, developer and most importantly of all, extremely handsome</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gizzixz" alt="gizzixz" /> </p>
