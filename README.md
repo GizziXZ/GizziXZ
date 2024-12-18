@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gizzixz" alt="gizzixz" /> </p>
 
  - 🔭 I can do just about anything in node.js!
- - 🌱 I’m currently learning **C#** (with a little interest in rustlang)
+ - 🌱 I’m currently learning **Rust**
  - 📫 Reach me on Discord: gizzi5716
  
  <h3 align="center">Languages and Tools:</h3>
