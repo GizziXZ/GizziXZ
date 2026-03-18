@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gizzixz" alt="gizzixz" /> </p>
 
- - 🔭 I can do just about anything in node.js!
+ - 🔭 I can do just about anything in node.js, though most of my projects are in private repositories or are not uploaded to github.
  - 🌱 I’m currently learning **Rust**
  - 📫 Reach me on Discord: gizzi5716
  
