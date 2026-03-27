@@ -3,8 +3,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gizzixz" alt="gizzixz" /> </p>
 
- - 🔭 I can do just about anything in node.js, though most of my projects are in private repositories or are not uploaded to github.
+ - 🔭 I'm mainly a node.js developer, though a lot of my projects are either privated or not uploaded to Github.
+   
  - 🌱 I’m currently learning **Rust**
+   
  - 📫 Reach me on Discord: gizzi5716
  
  <h3 align="center">Languages and Tools:</h3>
@@ -12,5 +14,3 @@
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> </p>
 
  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gizzixz&layout=donut-vertical&theme=dark&exclude_repo=gizzixz.github.io"></p>
- 
- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gizzixz&show_icons=true&theme=dark"></p>
