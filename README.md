@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gizzixz" alt="gizzixz" /> </p>
 
- - 🔭 I'm an experienced Node.js developer focused on automation and privacy-centric projects.
+ - 🔭 I'm a backend-leaning full-stack developer building privacy-first, security-conscious systems. Self-taught, currently doing a B.Sc. in Computer Software Engineering.
    
- - 🌱 I’m currently learning **Rust**
+ - 🌱 I’m Learning **Rust**, and deep in cryptography / privacy engineering as an area of focus. Most of what I build tries to minimize what a server needs to trust about its users.
    
  - 📫 Contact me by email: **gizzixz@gmail.com**
 
