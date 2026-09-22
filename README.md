@@ -1,8 +1,6 @@
 <h1 align="center">👋 I'm Gizzi </h1>
 <h3 align="center">Yes, it's pixelated on purpose</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gizzixz" alt="gizzixz" /> </p>
-
  - 🔭 I'm a backend-leaning full-stack developer building privacy-first, security-conscious systems. Self-taught, currently doing a B.Sc. in Computer Software Engineering.
    
  - 🌱 I’m Learning **Rust**, and deep in cryptography / privacy engineering as an area of focus. Most of what I build tries to minimize what a server needs to trust about its users.
